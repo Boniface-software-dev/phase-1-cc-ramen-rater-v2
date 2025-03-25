@@ -20,6 +20,7 @@ header {
   color: white;
   background-color: rgb(203, 26, 26);
   font-size: larger;
+  font-weight: bold;
 }
 
 #ramen-menu {
