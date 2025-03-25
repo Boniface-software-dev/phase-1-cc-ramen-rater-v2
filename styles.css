@@ -18,7 +18,8 @@ header {
   padding: 0.5rem;
   width: 100%;
   color: white;
-  background-color: black;
+  background-color: rgb(203, 26, 26);
+  font-size: larger;
 }
 
 #ramen-menu {
